@@ -1,0 +1,53 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.nav__wrap {
+    text-decoration: none;
+    color: #70737c;
+    font-family: 'Lexend' , sans-serif;
+    font-weight: 500;
+    border-width: 50px;
+    font-size: 14px;
+    
+}
+.lodo:hover {
+    background: #359740;
+    transition: 0.5s;
+
+}
+.nav-top{
+    display: flex;
+    gap: 4.5rem; 
+    justify-content: center;
+    align-items: center;
+    margin-right: 140px;
+    padding-top: 20px; 
+}
+.ftr-msg {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+hr {
+    color: #c3e0c6;
+    margin-top: 40px;
+    width: 1300px;
+} 
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+.link {
+    text-decoration: none;
+    font-family: 'Lexend', sans-serif;
+    color: #70737c;
+    
+}
+.baltic {
+    width: 1px;
+    height: 100px;
+}
